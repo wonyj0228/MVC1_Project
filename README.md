@@ -7,3 +7,4 @@ Eclipse IDE로 javascript,jsp,css를 활용한 MVC1 모델의 '제주도 숙박 
 
 ## User (회원가입)
 * 회원가입 CRUD 구현
+* jdbc를 활용한 MySQL 연결
