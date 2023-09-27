@@ -4,6 +4,7 @@ Eclipse IDE로 javascript,jsp,css를 활용한 MVC1 모델의 '제주도 숙박 
 
 ## Login / Logout
 * 회원 조회 후 로그인 세션처리 구현
+* 
 
 ## User (회원가입)
 * 회원가입 CRUD 구현
